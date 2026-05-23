@@ -31,6 +31,9 @@ import ClubManagerOnlyRoute from "../provider/ClubManagerOnlyRoute";
 import Error404 from "../components/animation/Error404";
 import AllTransactionHistroy from "../pages/dashboard/admin/AllTransactionHistroy";
 
+
+
+
 export const router = createBrowserRouter([
   {
     path: "/",
@@ -95,6 +98,9 @@ export const router = createBrowserRouter([
       },
     ],
   },
+
+
+  
   {
     path: "/dashboard",
     element: (
