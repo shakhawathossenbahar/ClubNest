@@ -6,10 +6,6 @@ ClubNest is a vibrant community platform that enables users to discover, join, c
 
 Live Website: https://clubnest-commiunity.web.app
 
-## Repositories Link
-
-Repository (Frontend): https://github.com/obaidullah-miazi-dev/ClubNest-Web  
-Repository (Backend): https://github.com/obaidullah-miazi-dev/ClubNest-Server
 
 ## Features
 
@@ -173,10 +169,3 @@ This guide explains how to run the Frontend. ClubNest primarily uses Express for
 - Advanced analytics for managers (e.g., attendance tracking).
 - Mobile app integration.
 - More payment gateways and refund system.
-
-## Developed by Obaidullah Miazi
-
-Email: obaidullahmiazi.dev@gmail.com 
-LinkedIn: https://www.linkedin.com/in/obaidullah-miazi/
-
-“Connect, Create, Community — ClubNest brings passions to life.”

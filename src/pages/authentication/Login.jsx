@@ -11,8 +11,8 @@ import Swal from "sweetalert2";
 const Login = () => {
   const { signInUser, setLoading } = useContext(AuthContext);
   const [showPassword, setShowPassword] = useState(false);
-  const navigate = useNavigate()
-  const location = useLocation()
+  const navigate = useNavigate();
+  const location = useLocation();
   const {
     register,
     handleSubmit,
@@ -30,7 +30,7 @@ const Login = () => {
           showConfirmButton: false,
           timer: 2000,
         });
-        navigate(`${location?.state ? location?.state : "/"}`)
+        navigate(`${location?.state ? location?.state : "/"}`);
         const userInfo = {
           email: res.user.email,
           displayName: res.user.displayName,
