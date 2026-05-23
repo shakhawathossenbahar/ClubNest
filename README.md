@@ -4,7 +4,7 @@ ClubNest is a vibrant community platform that enables users to discover, join, c
 
 ## Live Demo
 
-Live Website: https://clubnest-commiunity.web.app
+Live Website: https://club-nest-h35s.vercel.app/
 
 
 ## Features
